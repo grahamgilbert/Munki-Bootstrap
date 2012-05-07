@@ -1,0 +1,5 @@
+#!/bin/sh
+
+touch '/Users/Shared/.com.googlecode.munki.checkandinstallatstartup'
+
+exit 0
